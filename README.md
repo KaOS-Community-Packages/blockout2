@@ -2,7 +2,7 @@
 
 BlockOut v2.5 by Jean-Luc PONS (jlp_38@yahoo.com)
 
-[Homepage](http://www.blockout.net/blockout2/)
+Homepage: [http://www.blockout.net/blockout2/](http://www.blockout.net/blockout2/)
 
 ### Install:
 ```
